@@ -42,16 +42,18 @@ Prerequisites: `gcc` compiler.
 ```bash
 gcc src/binary_trees/binary_search_tree.c -o bst_test
 ./bst_test
+```
 
-**To run the Printer Queue**
+**To run the Printer Queue:**
 
 ```bash
 gcc src/queues/printer_queue.c -o queue_test
 ./queue_test
+```
 
 ## Author
 
 ### José Ángel García Plascencia
 
 * **Role:** Information Technologies Engineering Student @ UPSIN.
-* **Contact:** jose.angel.git@gmail.com / https://www.linkedin.com/in/jose-angel-garcia-20aa01386/.
+* **Contact:** <jose.angel.git@gmail.com> / <https://www.linkedin.com/in/jose-angel-garcia-20aa01386/>.
